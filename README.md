@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on Software Development<br>👯 I’m looking to collaborate on AI Projects<br>🤝 I’m looking for help with marketing and sales<br>🌱 I’m currently learning software engineering <br>💬 Ask me about technology <br>⚡ Fun fact: I like riding motorcycles
+🔭 I’m currently working on Software Development<br>👯 I’m looking to collaborate on AI Projects<br>🌱 I’m currently learning software engineering <br>💬 Ask me about technology <br>⚡ Fun fact: I like riding motorcycles
 
 
 ## 🌐 Socials:
