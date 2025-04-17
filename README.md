@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-# 💫 About Me:
-🔭 I’m currently working on Software Development<br>👯 I’m looking to collaborate on AI Projects<br>🌱 I’m currently learning software engineering <br>💬 Ask me about technology <br>⚡ Fun fact: I like riding motorcycles
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/juFfwGCGar) 
